@@ -1,0 +1,6 @@
+Jarak : 5 dan Total biaya : 75000 
+
+Jarak : 3 dan Total biaya : 45000 
+
+Jarak : 1 dan Total biaya : 15000 
+
