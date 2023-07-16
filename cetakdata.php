@@ -6,6 +6,7 @@
 
     file_put_contents($file, $biaya, FILE_APPEND);
 
+    echo "Finished";
     // $file = fopen("data.txt", "w+");
 
     // fwrite($file, $biaya);
